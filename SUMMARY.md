@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [asdf](asdf.md)
+* [Bienvenida](README.md)
+* [Introducción](chapter1.md)
+* [Marco normativo. Aspectos formales.](asdf.md)
 
