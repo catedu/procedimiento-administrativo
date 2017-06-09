@@ -8,13 +8,10 @@ Sin embargo, la norma también señala que determinadas cuestiones no producirá
 
 Son las previsiones relativas a:
 
--**Registro electrónico general**
-
--**Registros electrónicos especiales: de apoderamientos y de empleados públicos habilitados.**
-
--**Punto de acceso general electrónico de la Administración**
-
--**Archivo único electrónico.**
+* **Registro electrónico general**
+* **Registros electrónicos especiales: de apoderamientos y de empleados públicos habilitados.**
+* **Punto de acceso general electrónico de la Administración**
+* **Archivo único electrónico.**
 
 La [Disposición Transitoria 4ª](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&tn=1&p=20151002#dtcuaa) determina al respecto que en tanto no entren en vigor las previsiones respecto al **registro electrónico general, registro electrónico de apoderamientos, punto de acceso general electrónico de la Administración y archivo único electrónico**,
 
@@ -56,11 +53,9 @@ g\) Los artículos 2.3, 10, 13, 14, 15, 16, 26, 27, 28, 29,1,a y d, 31, 32, 33, 
 
 La LPACAP incluye contenido de gran relevancia.
 
--**Regula los requisitos de validez y eficacia de los actos administrativos.**
-
--**El procedimiento administrativo común para todas las Administraciones.**
-
--**Los principios que regulan la iniciativa legislativa y la potestad reglamentaria.**
+* **Regula los requisitos de validez y eficacia de los actos administrativos.**
+* **El procedimiento administrativo común para todas las Administraciones.**
+* **Los principios que regulan la iniciativa legislativa y la potestad reglamentaria.**
 
 Sin embargo, la Ley se ocupa únicamente de las relaciones ad extra de las Administraciones Públicas. Retornamos a la situación anterior a la Ley 30/92, que unía ambos tipos de relaciones – ad intra y ad extra –, desgajándose ahora ambas regulaciones en dos leyes distintas: la LPACAP, que nos ocupa, y la Ley de Régimen Jurídico del Sector Público, en la que se regula la relación de las Administraciones – personas, órganos, escalas – entre sí.
 

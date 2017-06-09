@@ -3,7 +3,7 @@
 ## Introducción
 
 * [Bienvenida](README.md)
-  * [Introducción](chapter1.md)
+* [Introducción](chapter1.md)
 
 ## Parte 1
 
