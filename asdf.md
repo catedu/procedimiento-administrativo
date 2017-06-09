@@ -18,7 +18,7 @@ Son las previsiones relativas a:
 
 La [Disposición Transitoria 4ª](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&tn=1&p=20151002#dtcuaa) determina al respecto que en tanto no entren en vigor las previsiones respecto al **registro electrónico general, registro electrónico de apoderamientos, punto de acceso general electrónico de la Administración y archivo único electrónico**,
 
-                 “_las Administraciones Públicas mantendrán los mismos canales, medios o sistemas electrónicos vigentes relativos a   dichas materias, que permitan garantizar el derecho de las personas a relacionarse electrónicamente con las Administraciones_”. 
+> “Las Administraciones Públicas mantendrán los mismos canales, medios o sistemas electrónicos vigentes relativos a   dichas materias, que permitan garantizar el derecho de las personas a relacionarse electrónicamente con las Administraciones”.
 
 Es destacable este hecho, pues demuestra que **el legislador es consciente de las dificultades con las que se va a encontrar al intentar alcanzar un objetivo ambicioso**. La transformación de la administración en e-administración supone un reto, que requerirá de inversión, no sólo económica, sino de formación de personal y cambio de hábitos, tanto en el funcionariado como en la ciudadanía.
 
