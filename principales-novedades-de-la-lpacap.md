@@ -58,23 +58,21 @@ El expediente administrativo es el conjunto de documentos y actuaciones que sirv
 
 [**Artículo 70.2**](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&tn=1&p=20151002#a70) Asimismo, deberá constar en el expediente copia electrónica certificada de la resolución adoptada.
 
-
-
 **NOVEDADES EN LOS DOCUMENTOS APORTADOS POR LOS INTERESADOS**
 
 ---
 
-**Novedad interesante a efectos prácticos:**
+**Novedades interesantes a efectos prácticos:**
 
-| **OBLIGACIÓN DE NO PEDIR**– **Artículo 28.3** |
+| **OBLIGACIÓN DE NO PEDIR**– [**Artículo 28.3**](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&tn=1&p=20151002#a28) |
 | :--- |
-| **Las Administraciones no exigirán a los interesados la presentación de documentos originales**, salvo que, con carácter excepcional, la normativa establezca lo contrario.**Las AAPP no requerirán**a los interesados **datos o documentos** no exigidos por la normativa reguladora aplicable o que hayan sido **aportados anteriormente por el interesado ante cualquier Administración.**A estos efectos, deberá indicarse en qué momento y ante qué órgano administrativo se presentaron los documentos, debiendo las AAPP recabarlos electrónicamente a través de sus redes corporativas, o de una consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados al efecto. Se presumirá que dicha consulta es autorizada por los interesados, salvo que exista constancia de oposición expresa, o por ley especial se requiera consentimiento expreso.Sólo excepcionalmente, si las AAPP no pudieran recabar los documentos, podrán solicitar nueva mente al interesado su aportación. |
+| **Las Administraciones no exigirán a los interesados** la presentación de documentos originales, salvo que, con carácter excepcional, la normativa establezca lo contrario. Las Administraciones Públicas no podrán tampoco pedir **datos o documentos** no exigidos por la normativa reguladora aplicable o que hayan sido **aportados anteriormente por el interesado ante la Administración \(ante cualquier Administración\). **A estos efectos, deberá indicarse en qué momento y ante qué órgano administrativo se presentaron los documentos, debiendo las AAPP recabarlos electrónicamente a través de sus redes corporativas, o  de una consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados al efecto. Se presumirá que dicha consulta es autorizada por los interesados, salvo que exista constancia de oposición expresa, o por ley especial se requiera consentimiento expreso.Sólo excepcionalmente, si las AAPP no pudieran recabar los documentos, podrán solicitar nueva mente al interesado su aportación. |
 
-| **DERECHO A NO APORTAR. Artículo 53.1 c y d** |
+| **DERECHO A NO APORTAR. **[**Artículo 53.1 c y d**](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&tn=1&p=20151002#a53) |
 | :--- |
-| Los interesados tienen derecho a no presentar documentos originales, salvo excepciones marcados por la norma de aplicación, en cuyo caso tendrán derecho a la obtención de copia autenticada del documento. En tal caso, la copia electrónica resultante reflejará expresamente esta circunstancia.Excepcionalmente, cuando la relevancia del documento en el procedimiento lo exija, o existan dudas derivadas de la calidad de la copia, las AAPP podrán solicitar de manera motivada el cotejo de las copias aportadas por el interesado, para lo que podrán requerir la exhibición del documento o de la información original.También se tendrá **derecho a no presentar datos y documentos:**-**No exigidos por las normas aplicables al procedimiento de que se trate.**-**Que ya se encuentren en poder de las AAPP**-**O que hayan sido elaborados por éstas.** |
+| Los interesados tienen derecho a no presentar documentos originales, salvo excepciones que pueda marcar la norma de aplicación, en cuyo caso tendrán derecho a la obtención de copia autenticada del documento. En este caso, la copia electrónica resultante reflejará expresamente esta circunstancia. Excepcionalmente, cuando la relevancia del documento en el procedimiento lo exija, o existan dudas derivadas de la calidad de la copia, las AAPP podrán solicitar de manera motivada el cotejo de las copias aportadas por el interesado, para lo que podrán requerir la exhibición del documento o de la información original.También se tendrá **derecho a no presentar datos y documentos:**-**No exigidos por las normas aplicables al procedimiento de que se trate.**-**Que ya se encuentren en poder de las AAPP**-**O que hayan sido elaborados por éstas.** |
 
-| **OBLIGACIÓN DE LAS AAPP. Artículo 27.4 pº 2** |
+| **OBLIGACIÓN DE LAS AAPP. **[**Artículo 27.4 pº 2**](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&tn=1&p=20151002#a27) |
 | :--- |
 | Las AAPP están obligadas a expedir copias auténticas electrónicas de cualquier documento en papel que presenten los interesados y que se vaya a incorporar a un expediente administrativo. |
 
