@@ -1,5 +1,7 @@
 **LEY 39/2015, del Procedimiento Administrativo Común para las Administraciones Públicas: LPACAP**
 
+---
+
 **PUBLICACIÓN Y ENTRADA EN VIGOR. DISPOSICIONES TRANSITORIAS**
 
 Con fecha 2 de octubre de 2015 se publica en el Boletín Oficial del Estado, BOE, la nueva L[ey de Procedimiento Administrativo Común para las Administraciones Públicas, LPACAP](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565). La Ley incluye en su articulado la anotación de entrada en vigor al año de su publicación, el 2 de octubre del pasado 2016.
