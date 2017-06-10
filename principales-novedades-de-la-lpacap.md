@@ -21,6 +21,8 @@ Las resumimos y nos centramos en las que nos interesan como docentes:
 
 **El procedimiento administrativo, en cambio, en cuanto a su inicio, tramitación y resolución, incluyendo los recursos que se pueden plantear, no varía en esencia.**
 
+![](/assets/burocracia-1-1.jpg)
+
 **EL EXPEDIENTE ELECTRÓNICO**
 
 ---
