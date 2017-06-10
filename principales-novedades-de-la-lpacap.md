@@ -9,8 +9,7 @@ Las resumimos y nos centramos en las que nos interesan como docentes:
 * El objetivo del legislador es el fomento de la tramitación electrónica de los expedientes, y el uso de la firma digital para la presentación de escritos y documentos ante la Administración.  
   Se pretende la sustitución progresiva de la presentación de escritos físicos por documentos electrónicos, así como la generalización de la comunicación telemática, vía e-mail o mediante mensaje de texto.
 
-* Determinados colectivos están **obligados **a relacionarse con la Administración únicamente **por vía electrónica**  
-  .
+* Determinados colectivos están **obligados **a relacionarse con la Administración únicamente **por vía electrónica**
 
 * Participación ciudadana en la elaboración de leyes y reglamentos: se establece un **trámite de audiencia novedoso,** que busca fomentar la participación.
 
@@ -23,6 +22,8 @@ Las resumimos y nos centramos en las que nos interesan como docentes:
 **El procedimiento administrativo, en cambio, en cuanto a su inicio, tramitación y resolución, incluyendo los recursos que se pueden plantear, no varía en esencia.**
 
 **EL EXPEDIENTE ELECTRÓNICO**
+
+---
 
 **Concepto. **[**Artículo 36 LPACAP**](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&tn=1&p=20151002#a36)
 
@@ -37,6 +38,8 @@ El expediente administrativo es el conjunto de documentos y actuaciones que sirv
 * Una vez incorporado un documento electrónico auténtico a un expediente electrónico no podrá ser modificado o eliminado bajo ningún concepto.
 
 **EL PROCEDIMIENTO ADMINISTRATIVO**
+
+---
 
 ¿Cuál es la incidencia de la e-administración en el procedimiento administrativo? Como hemos avanzado, las modificaciones en la tramitación del mismo son mínimas, en esencia estamos ante el mismo proceso que ya conocemos y que regulaba la extinta Ley 30/92. Sí existen algunos **cambios** en determinadas cuestiones. Son los siguientes:
 
@@ -78,5 +81,5 @@ El expediente administrativo es el conjunto de documentos y actuaciones que sirv
 
 ---
 
-[\[1\]](#_ftnref1)No formarán parte del expediente, sin embargo, la información de carácter auxiliar, ni la que se contenga en bases de datos, ficheros, notas, borradores, opiniones, resúmenes o informes internos o juicios de valor emitidos por las AAPP, salvo que se trate de informes preceptivos y facultativos, solicitados antes de la resolución administrativa que ponga fin al procedimiento.
+[\[1\]](#_ftnref1) No formarán parte del expediente, sin embargo, la información de carácter auxiliar, ni la que se contenga en bases de datos, ficheros, notas, borradores, opiniones, resúmenes o informes internos o juicios de valor emitidos por las AAPP, salvo que se trate de informes preceptivos y facultativos, solicitados antes de la resolución administrativa que ponga fin al procedimiento.
 

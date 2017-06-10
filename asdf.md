@@ -2,7 +2,11 @@
 
 ---
 
+---
+
 **PUBLICACIÓN Y ENTRADA EN VIGOR. DISPOSICIONES TRANSITORIAS**
+
+---
 
 Con fecha 2 de octubre de 2015 se publica en el Boletín Oficial del Estado, BOE, la nueva L[ey de Procedimiento Administrativo Común para las Administraciones Públicas, LPACAP](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565). La Ley incluye en su articulado la anotación de entrada en vigor al año de su publicación, el 2 de octubre del pasado 2016.
 
@@ -25,6 +29,8 @@ En función de esta circunstancia, la Ley, como no puede ser de otro modo, estab
 
 **EXPOSICIÓN DE MOTIVOS DE LA LEY**
 
+---
+
 ¿Qué ha llevado a la Comisión legislativa a elaborar y promulgar una nueva norma sobre el procedimiento administrativo? Fundamentalmente, tres razones:
 
 1. La necesidad de **modernizar** la relación de las Administraciones Públicas, ad intra – entre sus propios órganos y escalas – y ad extra – con la ciudadanía. La modernización supone la generalización de la tramitación electrónica de los expedientes, la comunicación telemática, la creación de registros y archivos digitales, entre otras cuestiones. También supone contribuir a la preservación del medio ambiente con la progresiva reducción – y, con mirada larga, la eliminación como objetivo final – de la emisión y recepción de documentos en papel. El reto es producir y recibir "0" papel.
@@ -34,6 +40,8 @@ En función de esta circunstancia, la Ley, como no puede ser de otro modo, estab
 4. A este respecto, señalar que por un lado, sí se cumple tal objetivo, pues se derogan y engloban en la nueva ley todas aquellas normas que se referían al acceso de la ciudadanía a la relación electrónica con la Administración; pero por otro lado, el legislador ha considerado oportuno dividir las relaciones ad intra \(Ley 40/2015, de Régimen Jurídico del Sector Público\) y las relaciones ad extra \(LPACAP\) EN DOS CORPUS NORMATIVOS diferenciados.
 
 **DEROGACIÓN NORMATIVA**
+
+---
 
 En aras a alcanzar este último objetivo de acabar con la dispersión normativa, la LPACAP se ocupa de regular el contenido de las siguientes normas que expresamente se derogan con su promulgación y entrada en vigor:
 
@@ -53,6 +61,8 @@ g\) Los artículos 2.3, 10, 13, 14, 15, 16, 26, 27, 28, 29,1,a y d, 31, 32, 33, 
 
 **CONTENIDO DE LA LEY**
 
+---
+
 La LPACAP incluye contenido de gran relevancia.
 
 * **Regula los requisitos de validez y eficacia de los actos administrativos.**
@@ -62,6 +72,8 @@ La LPACAP incluye contenido de gran relevancia.
 Sin embargo, la Ley se ocupa únicamente de las relaciones ad extra de las Administraciones Públicas. Retornamos a la situación anterior a la Ley 30/92, que unía ambos tipos de relaciones – ad intra y ad extra –, desgajándose ahora ambas regulaciones en dos leyes distintas: la LPACAP, que nos ocupa, y la Ley de Régimen Jurídico del Sector Público, en la que se regula la relación de las Administraciones – personas, órganos, escalas – entre sí.
 
 **ÁMBITO SUBJETIVO DE APLICACIÓN**
+
+---
 
 ¿A quién se dirige la norma, quién-quiénes se ven afectados por ella? De un lado, nosotros y nosotras, **la ciudadanía**. También las personas jurídicas – la Ley menciona de forma expresa, y en reiteradas ocasiones, a **las empresas**. De otro, las Administraciones Públicas, el sector público, que comprende:
 
