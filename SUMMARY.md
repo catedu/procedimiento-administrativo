@@ -4,6 +4,7 @@
 
 * [Bienvenida](README.md)
 * [Introducción](chapter1.md)
+* [Inicio](inicio.md)
 
 ## UNO - LPACAP
 
