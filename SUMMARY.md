@@ -18,5 +18,6 @@
 ## TRES - El procedimiento administrativo
 
 * [Inicio](inicio.md)
+* [Tramitación](tramitacion.md)
 * [RESUMEN](resumen.md)
 
