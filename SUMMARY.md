@@ -4,10 +4,7 @@
 
 * [Bienvenida](README.md)
 * [Introducción](chapter1.md)
-* [Inicio](inicio.md)
-
-## UNO - LPACAP
-
+* UNO - LPACAP
 * [Marco normativo. Aspectos formales.](asdf.md)
 * [Principales novedades de la LPACAP](principales-novedades-de-la-lpacap.md)
 
@@ -17,4 +14,9 @@
 * [La firma](la-firma.md)
 * [Los medios electrónicos](los-medios-electronicos.md)
 * [Los derechos de la ciudadanía ](los-derechos-de-la-ciudadania.md)
+
+## TRES - El procedimiento administrativo
+
+* [Inicio](inicio.md)
+* [RESUMEN](resumen.md)
 
