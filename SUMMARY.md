@@ -23,7 +23,11 @@
 * [Tramitación](tramitacion.md)
 * [Terminación](terminacion.md)
 * [RESUMEN](resumen.md)
-* [CUATRO Y FIN: Otras cuestiones](cuatro-y-fin-otras-cuestiones.md)
+
+[CUATRO Y FIN: Otras cuestiones](cuatro-y-fin-otras-cuestiones.md)
+
 * [La notificación administrativa](la-notificacion-administrativa.md)
 * [El silencio administrativo](el-silencio-administrativo.md)
+
+
 
