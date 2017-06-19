@@ -14,3 +14,29 @@ Las resoluciones: una vez finalizado el procedimiento administrativo, en el caso
 
 Con carácter general, será el propio órgano administrativo que ha dictado la resolución el que la revise y, en su caso, emita resolución distinta, que recogerá – o no -, las aspiraciones del interesado.
 
+Existen dos posibilidades:
+
+1. El acto no agota, no pone fin a la vía administrativa. En tal caso, si el interesado desea instar a la jurisdicción contencioso –administrativa, la Ley establece como requisito previo e indispensable presentar recurso administrativo.
+2. El acto agota, pone fin a la vía administrativa. Entonces el interesado podrá optar por la presentación o no del recurso administrativo antes de acudir a los tribunales contenciosos.
+
+
+
+**Tipos de recursos administrativos:**
+
+* Recurso de alzada.
+* Recurso de reposición.
+* Recurso extraordinario de revisión.
+
+| **ALZADA** | **REPOSICIÓN** | **REVISIÓN** |
+| ---: | :--- | :--- |
+| **Ordinario**. Puede fundarse en cualquier infracción del ordenamiento jurídico. | **Ordinario**. Puede fundarse en cualquier infracción del ordenamiento jurídico. | **Extraordinario**. Únicamente puede fundarse en las causas previstas por la ley:-Error de hecho-Aparición de documentos nuevos.-Declaración de falsedad de documentos incorporados al procedimiento.-Existencia de cohecho, prevaricación o violencia. |
+| Contra actos que no pongan fin a la vía administrativa | Contra actos que pongan fin a la vía administrativa, excepto aquellos que resuelvan recursos de alzada. | Contra actos firmes, que no admitan otro tipo de recursos, pero únicamente en los casos tasados por la ley. |
+| Se resuelve por el superior jerárquico del órgano que dictó el acto recurrido. | Se resuelve por el mismo órgano que dictó el acto recurrido. | Se interpone ante el órgano que dictó el acto recurrido. |
+| **Plazos**:-**Interposición**: 1 mes actos expresos, el día siguiente a surtir efectos actos presuntos.-**Resolución**: 3 meses. | **Plazos:**-**Interposición**: 1 mes-**Resolución**: 1 mes. | **Plazos**:-**Interposición**: 4 años si se alega error de hecho; 3 meses para el resto de causas.-**Resolución**: 3 meses. |
+
+
+
+
+
+
+
