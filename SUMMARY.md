@@ -21,17 +21,16 @@
 
 * [Inicio](inicio.md)
 * [Tramitación](tramitacion.md)
-* [Terminación](terminacion.md)
+* [Terminación](https://www.genial.ly/View/Index/590cbbd036eb5524e47e0b45)
 
 ## CUATRO Y FIN: Otras cuestiones
 
-* [La notificación administrativa](la-notificacion-administrativa.md)
-* [El silencio administrativo](el-silencio-administrativo.md)
+* [La notificación administrativa](https://www.genial.ly/591c2d27c10e273c489e8c8d/notificacion-administrativa)
+* [El silencio administrativo](https://www.genial.ly/59242708acf8750b24a5dbc4/silencio-administrativo)
 * [Los actos y resoluciones administrativas](los-actos-y-resoluciones-administrativas.md)
   * [Eficacia y ejecutoriedad](los-actos-y-resoluciones-administrativas/eficacia-y-ejecutoriedad.md)
   * [Eficacia y ejecutoriedad](eficacia-y-ejecutoriedad.md)
   * [Ejecución forzosa](ejecucion-forzosa.md)
-  * [Nulidad y anulabilidad. Revisión de oficio. Revocación y rectificación. ](nulidad-y-anulabilidad-revision-de-oficio-revocacion-y-rectificacion.md)
+  * [Nulidad y anulabilidad. Revisión de oficio. Revocación y rectificación. ](https://www.genial.ly/592abce3acf88c0708c4f79b/eficacia-y-nulidad)
 * [Los recursos administrativos](los-recursos-administrativos.md)
-* [RESUMEN FIN](resumen.md)
 
