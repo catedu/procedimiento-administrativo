@@ -24,10 +24,11 @@
 * [Terminación](terminacion.md)
 * [RESUMEN](resumen.md)
 
-[CUATRO Y FIN: Otras cuestiones](cuatro-y-fin-otras-cuestiones.md)
+## CUATRO Y FIN: Otras cuestiones
 
 * [La notificación administrativa](la-notificacion-administrativa.md)
 * [El silencio administrativo](el-silencio-administrativo.md)
-
-
+* [Los actos y resoluciones administrativas](los-actos-y-resoluciones-administrativas.md)
+  * [Eficacia y ejecutoriedad](los-actos-y-resoluciones-administrativas/eficacia-y-ejecutoriedad.md)
+* [Eficacia y ejecutoriedad](eficacia-y-ejecutoriedad.md)
 
