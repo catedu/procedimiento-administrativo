@@ -4,7 +4,6 @@
 
 * [Bienvenida](README.md)
 * [Introducción](chapter1.md)
-* [RESUMEN](resumen.md)
 
 ## UNO - LPACAP
 
@@ -28,12 +27,11 @@
 
 * [La notificación administrativa](la-notificacion-administrativa.md)
 * [El silencio administrativo](el-silencio-administrativo.md)
-* [RESUMEN](resumen.md)
 * [Los actos y resoluciones administrativas](los-actos-y-resoluciones-administrativas.md)
   * [Eficacia y ejecutoriedad](los-actos-y-resoluciones-administrativas/eficacia-y-ejecutoriedad.md)
   * [Eficacia y ejecutoriedad](eficacia-y-ejecutoriedad.md)
   * [Ejecución forzosa](ejecucion-forzosa.md)
   * [Nulidad y anulabilidad. Revisión de oficio. Revocación y rectificación. ](nulidad-y-anulabilidad-revision-de-oficio-revocacion-y-rectificacion.md)
 * [Los recursos administrativos](los-recursos-administrativos.md)
-* [RESUMEN](resumen.md)
+* [RESUMEN FIN](resumen.md)
 
