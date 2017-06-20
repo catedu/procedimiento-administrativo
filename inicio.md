@@ -15,6 +15,8 @@
 
 ![](/assets/forges_admin.jpg)
 
+
+
 **INICIO DEL PROCEDIMIENTO**
 
 **Actuaciones previas.**
@@ -24,6 +26,8 @@ Antes de que se inicie el procedimiento, el órgano competente podrá realizar a
 **Medidas provisionales.**
 
 Antes de iniciarse, o una vez iniciado ya el procedimiento, el órgano competente para resolver podrá adoptar de oficio o a instancia de parte, las medidas que considere necesarias para asegurar la eficacia de la resolución que pudiera recaer, si considera que hay suficientes elementos de juicio para ello. Deberá procederse de acuerdo con los principios de proporcionalidad, efectividad y menor onerosidad. Se recogen en el [**artículo 56.3**](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&tn=1&p=20151002#a56) de la Ley.
+
+
 
 **Clases de inicio**
 
