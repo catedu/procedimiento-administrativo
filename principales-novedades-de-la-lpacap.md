@@ -23,9 +23,9 @@ Las resumimos y nos centramos en las que nos interesan como docentes:
 
 ![](/assets/burocracia-1-1.jpg)
 
-**EL EXPEDIENTE ELECTRÓNICO**
 
----
+
+**EL EXPEDIENTE ELECTRÓNICO**
 
 **Concepto. **[**Artículo 36 LPACAP**](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&tn=1&p=20151002#a36)
 
@@ -39,9 +39,9 @@ El expediente administrativo es el conjunto de documentos y actuaciones que sirv
 * Todos los expedientes electrónicos dispondrán de un índice electrónico, al que se incorporarán los documentos unidos al mismo por estricto orden de llegada.
 * Una vez incorporado un documento electrónico auténtico a un expediente electrónico no podrá ser modificado o eliminado bajo ningún concepto.
 
-**EL PROCEDIMIENTO ADMINISTRATIVO**
 
----
+
+**EL PROCEDIMIENTO ADMINISTRATIVO**
 
 ¿Cuál es la incidencia de la e-administración en el procedimiento administrativo? Como hemos avanzado, las modificaciones en la tramitación del mismo son mínimas, en esencia estamos ante el mismo proceso que ya conocemos y que regulaba la extinta Ley 30/92. Sí existen algunos **cambios** en determinadas cuestiones. Son los siguientes:
 
@@ -63,9 +63,9 @@ El expediente administrativo es el conjunto de documentos y actuaciones que sirv
 
 [**Artículo 70.2**](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&tn=1&p=20151002#a70) Asimismo, deberá constar en el expediente copia electrónica certificada de la resolución adoptada.
 
-**NOVEDADES EN LOS DOCUMENTOS APORTADOS POR LOS INTERESADOS**
 
----
+
+**NOVEDADES EN LOS DOCUMENTOS APORTADOS POR LOS INTERESADOS**
 
 **Novedades interesantes a efectos prácticos:**
 
