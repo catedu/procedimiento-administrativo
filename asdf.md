@@ -2,15 +2,11 @@
 
 ---
 
----
-
 **PUBLICACIÓN Y ENTRADA EN VIGOR. DISPOSICIONES TRANSITORIAS**
-
----
 
 Con fecha 2 de octubre de 2015 se publica en el Boletín Oficial del Estado, BOE, la nueva L[ey de Procedimiento Administrativo Común para las Administraciones Públicas, LPACAP](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565). La Ley incluye en su articulado la anotación de entrada en vigor al año de su publicación, el 2 de octubre del pasado 2016.
 
-Sin embargo, la norma también señala que determinadas cuestiones no producirán efectos sino hasta pasados tres años desde la publicación en el Boletín, y dos desde su entrada en vigor,**es decir, el 2 de octubre de 2018**. Esto es lo que se denomina, en "jerga" jurídica, _vacatio legis_.
+Sin embargo, la norma también señala que determinadas cuestiones no producirán efectos sino hasta pasados tres años desde la publicación en el Boletín, y dos desde su entrada en vigor, **es decir, el 2 de octubre de 2018**. Esto es lo que se denomina, en "jerga" jurídica,[ _vacatio legis_](http://dej.rae.es/#/entry-id/E242260).
 
 Son las previsiones relativas a:
 
