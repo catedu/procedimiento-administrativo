@@ -23,9 +23,9 @@ Es destacable este hecho, pues demuestra que **el legislador es consciente de la
 
 En función de esta circunstancia, la Ley, como no puede ser de otro modo, establece un  período de adaptación - _vacatio legis_  - para lograr su objetivo de digitalizar las Administraciones.
 
-**EXPOSICIÓN DE MOTIVOS DE LA LEY**
 
----
+
+**EXPOSICIÓN DE MOTIVOS DE LA LEY**
 
 ¿Qué ha llevado a la Comisión legislativa a elaborar y promulgar una nueva norma sobre el procedimiento administrativo? Fundamentalmente, tres razones:
 
@@ -35,9 +35,9 @@ En función de esta circunstancia, la Ley, como no puede ser de otro modo, estab
 
 4. A este respecto, señalar que por un lado, sí se cumple tal objetivo, pues se derogan y engloban en la nueva ley todas aquellas normas que se referían al acceso de la ciudadanía a la relación electrónica con la Administración; pero por otro lado, el legislador ha considerado oportuno dividir las relaciones ad intra \(Ley 40/2015, de Régimen Jurídico del Sector Público\) y las relaciones ad extra \(LPACAP\) EN DOS CORPUS NORMATIVOS diferenciados.
 
-**DEROGACIÓN NORMATIVA**
 
----
+
+**DEROGACIÓN NORMATIVA**
 
 En aras a alcanzar este último objetivo de acabar con la dispersión normativa, la LPACAP se ocupa de regular el contenido de las siguientes normas que expresamente se derogan con su promulgación y entrada en vigor:
 
@@ -55,9 +55,9 @@ f\) Real Decreto 772/1999, de 7 de mayo, por el que se regula la presentación d
 
 g\) Los artículos 2.3, 10, 13, 14, 15, 16, 26, 27, 28, 29,1,a y d, 31, 32, 33, 35, 36, 39, 48 y 50; y los apartados 1 a 4 de la DA1ª, la DA3ª, la DT1ª, las DT2ª, 3ª Y 4ª del RD 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
 
-**CONTENIDO DE LA LEY**
 
----
+
+**CONTENIDO DE LA LEY**
 
 La LPACAP incluye contenido de gran relevancia.
 
@@ -67,17 +67,16 @@ La LPACAP incluye contenido de gran relevancia.
 
 Sin embargo, la Ley se ocupa únicamente de las relaciones ad extra de las Administraciones Públicas. Retornamos a la situación anterior a la Ley 30/92, que unía ambos tipos de relaciones – ad intra y ad extra –, desgajándose ahora ambas regulaciones en dos leyes distintas: la LPACAP, que nos ocupa, y la Ley de Régimen Jurídico del Sector Público, en la que se regula la relación de las Administraciones – personas, órganos, escalas – entre sí.
 
-**ÁMBITO SUBJETIVO DE APLICACIÓN**
 
----
+
+**ÁMBITO SUBJETIVO DE APLICACIÓN**
 
 ¿A quién se dirige la norma, quién-quiénes se ven afectados por ella? De un lado, nosotros y nosotras, **la ciudadanía**. También las personas jurídicas – la Ley menciona de forma expresa, y en reiteradas ocasiones, a **las empresas**. De otro, las Administraciones Públicas, el sector público, que comprende:
 
-**a\) La Administración General del Estado**
+* **La Administración General del Estado**
+* **Las Administraciones de las Comunidades Autónomas**
+* **Las Entidades que integran la Administración Local**
+* **El sector público institucional**, es decir, todos los organismos públicos, entidades de derecho público o privado vinculados o dependientes de las Administraciones Públicas, y las Universidades Públicas, que se regirán, éstas últimas, por su propia normativa, y supletoriamente por las disposiciones de la LPACAP.
 
-**b\) Las Administraciones de las Comunidades Autónomas**
 
-**c\) Las Entidades que integran la Administración Local**
-
-**d**\) **El sector público institucional**, es decir, todos los organismos públicos, entidades de derecho público o privado vinculados o dependientes de las Administraciones Públicas, y las Universidades Públicas, que se regirán, éstas últimas, por su propia normativa, y supletoriamente por las disposiciones de la LPACAP.
 
