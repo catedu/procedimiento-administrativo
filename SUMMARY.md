@@ -27,7 +27,7 @@
 ## CUATRO Y FIN: Otras cuestiones
 
 * [La notificación administrativa](la-notificacion-administrativa.md)
-* [El silencio administrativo](https://www.genial.ly/59242708acf8750b24a5dbc4/silencio-administrativo)
+* [El silencio administrativo](el-silencio-administrativo.md)
 * [Los actos y resoluciones administrativas](los-actos-y-resoluciones-administrativas.md)
   * [Eficacia y ejecutoriedad](los-actos-y-resoluciones-administrativas/eficacia-y-ejecutoriedad.md)
   * [Eficacia y ejecutoriedad](eficacia-y-ejecutoriedad.md)
