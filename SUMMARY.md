@@ -32,7 +32,9 @@
   * [Eficacia y ejecutoriedad](los-actos-y-resoluciones-administrativas/eficacia-y-ejecutoriedad.md)
   * [Eficacia y ejecutoriedad](eficacia-y-ejecutoriedad.md)
   * [Ejecución forzosa](ejecucion-forzosa.md)
-  * [Nulidad y anulabilidad. Revisión de oficio. Revocación y rectificación. ](https://www.genial.ly/592abce3acf88c0708c4f79b/eficacia-y-nulidad)
+  * Nulidad y anulabilidad
 * [Los recursos administrativos](los-recursos-administrativos.md)
 * [FIN](fin.md)
+
+
 
