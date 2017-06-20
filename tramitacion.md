@@ -1,8 +1,8 @@
 **TRAMITACIÓN DEL PROCEDIMIENTO**
 
----
-
 Una vez iniciado el procedimiento, se forma el expediente administrativo. Como sabemos, su tramitación se impulsa de oficio, de acuerdo con los principios de celeridad, transparencia y publicidad. La tramitación debe buscar la simplificación administrativa.
+
+
 
 **Cumplimiento de trámites:**
 
@@ -13,7 +13,7 @@ Una vez iniciado el procedimiento, se forma el expediente administrativo. Como s
 
 **Alegaciones**. Son respuestas de los interesados ante la tramitación. Pueden plantearse en cualquier momento, siempre antes del trámite de audiencia[\[1\]](#_ftn1). Pueden consistir en propuestas, aportación de documentos, datos, elementos. Deberán tenerse en cuenta al redactar la propuesta de resolución.
 
-**Prueba**: se admiten todos los medios de prueba admitidos en derecho \(Recogidos en la Ley de Enjuiciamiento Civil\).
+**Prueba**: se admiten todos los medios de prueba admitidos en derecho \(Recogidos en la Ley de Enjuiciamiento Civil, los puedes ver [aquí](https://www.boe.es/buscar/act.php?id=BOE-A-2000-323&tn=1&p=20170527#a299)\)
 
 * El período ordinario de prueba es de 10 a 30 días.
 * El extraordinario, 10 días.
@@ -33,8 +33,6 @@ La no emisión de informe facultativo no paraliza el procedimiento. Cuando el in
 
 **Participación de los interesados:**
 
----
-
 **Trámite de audiencia**:
 
 Es un trámite dirigido al interesad@.
@@ -48,7 +46,7 @@ Es un trámite dirigido al interesad@.
 
 **Trámite de información pública**:
 
-Es un trámite dirigido a la ciudadanía. 
+Es un trámite dirigido a la ciudadanía.
 
 * Se lleva a cabo siempre que la naturaleza del procedimiento lo requiera.
 * Se publica en el diario oficial que corresponda, y debe facilitarse el acceso electrónico al mismo.
@@ -56,18 +54,13 @@ Es un trámite dirigido a la ciudadanía.
 * La presentación de alegaciones no otorga la condición de interesad@.
 * Conlleva derecho a respuesta por parte de la administración
 
-  
-
-
 ---
 
 [\[1\]](#_ftnref1) Excepto en los siguientes supuestos, que podrán plantearse en cualquier momento:
 
--Defectos de tramitación
-
--Paralización
-
--Incumplimiento de plazos o trámites
+* Defectos de tramitación
+* Paralización
+* Incumplimiento de plazos o trámites
 
 
 
