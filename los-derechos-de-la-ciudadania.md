@@ -1,6 +1,6 @@
 **DERECHOS DE LAS PERSONAS EN SU RELACIÓN CON LAS AAPP**
 
----
+
 
 **Derechos como ciudadanos:**
 
@@ -36,7 +36,7 @@ b\) A acceder y obtener copia de los documentos que contengan tales procedimient
 
 c\) A identificar a las autoridades y al personal al servicio de las AAPP bajo cuya responsabilidad se tramiten los procedimientos.
 
-d\) A no presentar documentos originales salvo excepción recogida en la normativa aplicable. 
+d\) A no presentar documentos originales salvo excepción recogida en la normativa aplicable.
 
 e\) A no presentar datos y documentos que ya se hallen en poder de las AAPP o que hayan sido elaboradas por éstas.
 
@@ -50,7 +50,7 @@ i\) A cumplir las obligaciones de pago a través de los medios electrónicos pre
 
 j\) Otros reconocidos por las leyes y la Constitución.
 
-
+![](/assets/Yo exijo mis derechos.jpg)
 
 **Además, cuando se trate de procedimientos sancionadores, los presuntos responsables tendrán los siguientes derechos:**
 
@@ -59,8 +59,4 @@ a\) A ser notificado de los hechos que se le imputen, de las infracciones que lo
 b\) A conocer la identidad del instructor del procedimiento, de la autoridad competente para imponer en su caso la sanción.
 
 c\) A la presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario.
-
-
-
-
 
