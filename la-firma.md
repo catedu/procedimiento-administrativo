@@ -24,3 +24,7 @@ Se permite a los interesados firmar a través de cualquier medio que les permita
 
 
 
+![](/assets/Firma digital.jpg)
+
+
+
