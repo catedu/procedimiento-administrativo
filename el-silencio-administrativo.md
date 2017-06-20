@@ -1,6 +1,6 @@
 **EL SILENCIO ADMINISTRATIVO**
 
----
+![](/assets/Silencio.jpg)
 
 La Administración viene obligada legalmente a pronunciarse y resolver todas las cuestiones ante ella planteadas en un plazo fijado. Así se determina en la LPACAP, en su [**artículo 21,**](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&tn=1&p=20151002#a21) que dice, en su punto 1º que “La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos, cualquiera que sea su forma de iniciación”. Sabido es que ello no siempre sucede, por lo que el legislador establece que en tales casos, debe operar, ponerse en juego, una ficción jurídica que resuelve la falta de respuesta: **el silencio administrativo.**
 
