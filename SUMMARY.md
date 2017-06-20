@@ -22,6 +22,7 @@
 * [Inicio](inicio.md)
 * [Tramitación](tramitacion.md)
 * [Terminación](terminacion.md)
+* [RESUMEN](resumen.md)
 
 ## CUATRO Y FIN: Otras cuestiones
 
