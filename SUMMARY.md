@@ -30,7 +30,6 @@
 * [El silencio administrativo](el-silencio-administrativo.md)
 * [Los actos y resoluciones administrativas](los-actos-y-resoluciones-administrativas.md)
   * [Eficacia y ejecutoriedad](los-actos-y-resoluciones-administrativas/eficacia-y-ejecutoriedad.md)
-  * [Eficacia y ejecutoriedad](eficacia-y-ejecutoriedad.md)
   * [Ejecución forzosa](ejecucion-forzosa.md)
   * [Nulidad y anulabilidad](los-actos-y-resoluciones-administrativas/nulidad-y-anulabilidad.md)
 * [Los recursos administrativos](los-recursos-administrativos.md)
